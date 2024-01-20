@@ -5,3 +5,6 @@
 >[!TIP]
 >Diseñado con Figma, Next js 14, CSS Styles
 
+
+>[!IMPORTANT]
+>Proximos proyectos, Dashboard, Conexion Base de Datos, Registro de Usuarios, Registro de Clientes, Registro de Servicios a Ofrecer
